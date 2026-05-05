@@ -41,7 +41,7 @@ const Portfolio = () => {
           <div className="w-80 h-80 bg-gradient-to-br from-[#22231d] to-transparent rounded-full absolute"></div>
 
           <img
-            src="/src/assets/m1.png"
+            src="/assets/m1.png"
             alt="Anela Johnson"
             className="w-105 h-100 object-cover relative z-10 scale-110"
           />
