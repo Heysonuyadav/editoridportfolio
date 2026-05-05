@@ -7,40 +7,40 @@ const ProjectSection = () => {
     {
       title: "Travel Agency",
       date: "22/12/19",
-      video: "/public/videos/v1.mp4",
-      thumbnail: "/src/assets/m7.png",
+      video: "/videos/v1.mp4",
+      thumbnail: "/assets/m7.png",
       link: "https://yourproject1.com"
     },
     {
       title: "Online Courier",
       date: "22/12/19",
-      video: "/public/videos/v2.mp4",
-      thumbnail: "/src/assets/m6.png",
+      video: "/videos/v2.mp4",
+      thumbnail: "/assets/m6.png",
       link: "https://yourproject2.com"
     },
     {
       title: "Online Health Service",
       date: "22/12/19",
-      video: "/public/videos/v3.mp4",
-      thumbnail: "/src/assets/m5.png",
+      video: "/videos/v3.mp4",
+      thumbnail: "/assets/m5.png",
       link: "https://yourproject3.com"
     },
     {
       title: "Travel Agency",
       date: "22/12/19",
-      img: "/src/assets/m4.png",
+      img: "/assets/m4.png",
       link: "https://new-portfolio-eta-swart.vercel.app/"
     },
     {
       title: "Restaurant",
       date: "22/12/19",
-      img: "/src/assets/m2.png",
+      img: "/assets/m2.png",
       link: "https://yourproject5.com"
     },
     {
       title: "Restaurant",
       date: "22/12/19",
-      img: "/src/assets/m3.png",
+      img: "/assets/m3.png",
       link: "https://yourproject6.com"
     },
   ];
