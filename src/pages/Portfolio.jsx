@@ -3,7 +3,7 @@ import { User, Layout, Database, Mail } from 'lucide-react';
 
 const Portfolio = () => {
   return (
-    <div id='portfolio' className="min-h-screen bg-gradient-to-br from-[#171a19] via-[#0a0b0b] to-[#24342b] text-white font-sans selection:bg-pink-500">
+    <div id='portfolio' className="min-h-screen bg-gradient-to-br from-[#131731] via-[#301f1f] to-[#24342b] text-white font-sans selection:bg-pink-500">
 
       {/* Navigation */}
       <nav className="flex justify-center gap-8 py-8 text-sm opacity-80">
@@ -41,9 +41,9 @@ const Portfolio = () => {
           <div className="w-80 h-80 bg-gradient-to-br from-[#22231d] to-transparent rounded-full absolute"></div>
 
           <img
-            src="/assets/m1.png"
+            src="/assets/mig1.png"
             alt="Anela Johnson"
-            className="w-105 h-100 object-cover relative z-10 scale-110"
+            className="w-105 h-100 object-cover relative z-10 scale-110 rounded-full"
           />
 
         </div>
